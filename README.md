@@ -6,4 +6,4 @@ Can we use artificial intelligence to support human creativity and discovery? Th
 
 ## Background Work
 Neural Style Transfer is an algorithm can separate and recombine the image content and style of natural images. The algorithm produces a new images of high quality that combine the content image with the style image
-
+![Neural Style Transfer](./assets/NST_example.png)
